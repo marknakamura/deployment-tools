@@ -18,15 +18,16 @@ https://learn.microsoft.com/en-us/sysinternals/
 
 ## Settings
 #### Configuring the WiFi
-Output is in cleartext, XML will not be posted.
-Use these commands to generate the XML config and use in the ISO:
+1. Output is in cleartext, XML will not be posted.
+2. Use these commands to generate the XML config and use in the ISO:
 ```
 netsh wlan show profiles
 netsh wlan export profile WiFiNetworkName key=clear folder=.
 ```
-Add the XML as a file in the Post-Setup
-Use this command in the Post-Setup
+3. Add the XML as a file in the Post-Setup
+4. Use this command in the Post-Setup
 `netsh wlan add profile filename="%WINDIR%\Setup\Files\WiFiNetworkName.xml" user=all`
+5. Ensure the WLANAutoconfig service is enabled
 
 ###  Setting the wallpaper
 After loading the ISO in NTLite to edit:
