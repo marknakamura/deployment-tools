@@ -14,3 +14,11 @@ https://community.chocolatey.org/
 
 Sysinternals
 https://learn.microsoft.com/en-us/sysinternals/
+
+Configuring the WiFi
+Output is in cleartext, XML will not be posted.
+Use these commands to generate the XML config and use in the ISO:
+```
+netsh wlan show profiles
+netsh wlan export profile WiFiNetworkName key=clear folder=.
+```
