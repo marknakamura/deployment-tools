@@ -9,5 +9,8 @@ https://www.microsoft.com/software-download/windows11
 NTLite
 https://www.ntlite.com/
 
+Chocolatey
+https://community.chocolatey.org/
+
 Sysinternals
 https://learn.microsoft.com/en-us/sysinternals/
