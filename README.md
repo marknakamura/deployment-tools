@@ -34,3 +34,8 @@ After loading the ISO in NTLite to edit:
 3. Delete the existing "img0.jpg" file - you may have to take change permissions on the file to be able to delete it
 4. Rename your desired image file to "img0.jpg" and put in this directory (if this doesn't seem to work, add it to the "Windows 10" folder as well)
 5. Close the File Explorer
+6. Navigate to the "Remove\Components" section
+7. Expand the menu for "Multimedia"
+8. Scroll down and ensure that the boxes are checked for "Wallpaper (Default)" & "Wallpapers (Themes)
+9. ![image](https://github.com/marknakamura/deployment-tools/assets/57322698/34eef0cf-2aa6-430e-ab8e-4aaa9b8aeffe)
+
