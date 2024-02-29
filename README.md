@@ -1,21 +1,23 @@
 # A repository to help with setting up Windows images.
 
+## References
 ### Windows 10 ISO
 https://www.microsoft.com/en-us/software-download/windows10
 
 ### Windows 11 ISO
 https://www.microsoft.com/software-download/windows11
 
-NTLite
+### NTLite
 https://www.ntlite.com/
 
-Chocolatey
+### Chocolatey
 https://community.chocolatey.org/
 
-Sysinternals
+### Sysinternals
 https://learn.microsoft.com/en-us/sysinternals/
 
-Configuring the WiFi
+## Settings
+#### Configuring the WiFi
 Output is in cleartext, XML will not be posted.
 Use these commands to generate the XML config and use in the ISO:
 ```
