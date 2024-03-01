@@ -16,6 +16,9 @@ https://community.chocolatey.org/
 ### Sysinternals
 https://learn.microsoft.com/en-us/sysinternals/
 
+### BGInfo Useful Strings
+https://slwhitewv.blogspot.com/2012/11/bginfo-useful-custom-strings.html
+
 ## Settings
 #### Configuring the WiFi
 1. Output is in cleartext, XML will not be posted.
